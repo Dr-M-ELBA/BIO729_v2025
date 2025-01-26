@@ -3,7 +3,7 @@
 An image is worth a 1000 word. Images help us to capture features that are either difficult to articulate in words or numbers, or require lengthy descriptions. In the biomedical world, you will undoubtedly encounter images. Fortunately for us, AI is capable of interpreting images.
 In this example, we will work with histology images of cancener cells. We will see some similarities in the code with the previous example but also differences.
 
-# Code
+# Coding
 First thing is to load the libraries needed to write the script. Can you add a comment to each library to briefly describe what it is:
 
 ```python
