@@ -1,6 +1,6 @@
 # Introduction
 
-Tabular datasets are data presented in a table-like format. Instinctively, tabular datasets are easy to interpret, where the columns represent variables and the rows represent samples. An example of tabular data is presented below:
+Tabular datasets are presented in a table-like format. These datasets are intuitive to interpret, with columns representing variables and rows representing samples. An example of tabular data is shown below:
 
 | Sample | Variable 1 | Variable 2 | Variable 3 | Label |
 |--------|------------|------------|------------|-------|
@@ -15,10 +15,8 @@ Tabular datasets are data presented in a table-like format. Instinctively, tabul
 | 8      | 84         | 47         | 19         | 1     |
 | 9     | 41         | 72         | 53         | 0     |
 
-In the above example, we can see that there are 5 columns in total, of which 3 columns represent different variables, 1 represents the samples name and 1 for the label. We can also see that for this dataset, we have 10 samples in total.
+In this example, there are 5 columns in total. Three columns represent different variables, one column identifies the sample name, and one column contains the labels. We can also see that this dataset consists of 10 samples in total.
 
-
-In this example, we will work with a common dataset, which is the breast cancer dataset. It is a common dataset in the machine learning world, 
-where the aim is to predict cancer, given features extracted from an image.
+In the following example, we will work with a commonly used dataset: the breast cancer dataset. This dataset is widely recognised in the machine learning field, where the goal is to predict the presence of cancer based on features extracted from an image.
 
 ## Coding
