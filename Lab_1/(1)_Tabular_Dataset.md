@@ -21,7 +21,7 @@ In this example, there are 5 columns in total. Three columns represent different
 
 In the following example, we will work with a commonly used dataset: the breast cancer dataset. This dataset is widely recognised in the machine learning field, where the goal is to predict the presence of cancer based on features extracted from an image.
 
-# Coding
+## Coding
 As with any Python project, the first thing is to install the relevant packages. Without these, you'll be limited to simple functions, like addition and multiplication,
 without extensive programming. Fortunately, some kind-hearted individuals have done the leg work so that if you wanted to upload your dataset, it can be easily done with
 one line of code. So let's start by installing the relevant packages:
