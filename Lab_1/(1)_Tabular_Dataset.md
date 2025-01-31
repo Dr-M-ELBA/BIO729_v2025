@@ -1,4 +1,6 @@
-# Introduction
+# Tabular Data
+
+## Introduction
 
 Tabular datasets are presented in a table-like format. These datasets are intuitive to interpret, with columns representing variables and rows representing samples. An example of tabular data is shown below:
 
