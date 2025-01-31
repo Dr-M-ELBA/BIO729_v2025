@@ -1,4 +1,4 @@
-# Introduction
+# Lab 3: Comparing the Machine Learning Performance of raw vs Pre-processed Data
 
 In today's lab, we will continue to practice coding a machine learning model and evaluating its performance. However, we will now investigate the effect of pre-processing (e.g., scaling)
 on model performance. We will work with three datasets that are all available on sklearn, so there's no data file to download or clone. 
