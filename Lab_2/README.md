@@ -1,4 +1,4 @@
-# Introduction
+# LAb 2: Building Our First Model
 Welcome to Lab 2's assignment. Today, we will perform standard machine learning tasks using three different models. This task will help prepare us for the following task (not yet revealed!). We will use the breast-cancer dataset
 again and use the three models to predict whether a patient has a malignant or benign tumour. The models will be decision tree (DT), random forest (RF), and k-nearest neighbors (kNN). These are standard machine learning techniques
 and are relatively easy to implement using the scikit-learn (sklearn) library. Please see below for further instructions.
