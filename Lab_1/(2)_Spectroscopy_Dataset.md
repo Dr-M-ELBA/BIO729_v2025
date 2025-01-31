@@ -8,7 +8,7 @@ composition of galaxies to studying microbes and their metabolites.
 In this example, we will work with spectroscopy data that was used to analyse cells. The labelling will unlikely make sense since it requires niche domain expertise. However, EDA protocol
 should make sense. 
 
-# Coding
+## Coding
 
 First, install the relevant packages:
 
