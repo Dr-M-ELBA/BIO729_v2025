@@ -1,9 +1,11 @@
-# Introduction
+# Spectroscopy Data
+
+## Introduction
 In our second example, we will apply EDA to spectroscopy data. Spectroscopy is a powerful analytical technique used to measure the interaction between matter and electromagnetic radiation.
 It provides detailed information about the molecular composition, structure, and environment of a sample. It is so powerful that it is applied in almost every field, from analysing
 composition of galaxies to studying microbes and their metabolites. 
 
-In this example, we will work with spectoscopy data that was used to analyse cells. The labelling will unlikely make sense since it requires niche domain expertise. However, EDA protocol
+In this example, we will work with spectroscopy data that was used to analyse cells. The labelling will unlikely make sense since it requires niche domain expertise. However, EDA protocol
 should make sense. 
 
 # Coding
