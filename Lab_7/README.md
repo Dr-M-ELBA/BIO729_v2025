@@ -2,14 +2,14 @@
 
 ## Introduction
 
-This week, we're diving into how to code an Active Learning (AL) model, specifically focusing on the strategy of uncertainty sampling via least confidence. 
-Unlike previous exercises, this week's task will be structured differently. Instead of encountering intentional bugs, you'll find comments throughout 
-the code prompting you to add your insights. So when you see "# Please insert comment", please replace it with your own comment. This approach encourages 
-you to actively think about the code you're executing. For an optimal learning experience, I recommend executing each line of code in individual Colab cells, 
-with the exception of the 'for loop', which should be run in a single cell to maintain its iterative context. 
+Today, we're diving into how to code an Active Learning (AL) model, specifically focusing on the strategy of uncertainty sampling via least confidence. 
+Unlike previous exercises, today's task will be structured differently. Instead of encountering intentional bugs, you'll find comments throughout 
+the code prompting you to add your insights. So when you see "# Please insert comment", please replace it with your own comment. This encourages 
+you to actively think about the code you're executing. For best practice, I recommend executing each line of code in individual Colab cells (unless it's
+a block of code like a for loop), which should be run in a single cell to maintain its iterative context. 
 
 ## The Code
-As we discussed during the lectures, there are several AL strategies available. Uncertainty is a common and effective strategy that uses a learner's predictive 
+As we discussed during the lecture, there are several AL strategies available. Uncertainty is a common and effective strategy that uses a learner's predictive 
 confidence to guide us in which samples to query for each cycle. In other words, the samples in which the learner is less confident about in its prediction are 
 prioritised and tested. To keep things simple, we will work with the iris dataset and train our learner, random forest, on initially 5 samples and ask it to 
 predict the remaining 145 samples. For each iteration, the code records the Matthews Correlation Coefficient (MCC), which will help us track whether the learner 
